@@ -55,4 +55,4 @@ You can also view the notebook directly on GitHub or platforms like **Google Col
 
 ## 👩‍💻 Author
 **Aditi K**  
-CSE (AI & ML) | COVID-19 India Statewise Vaccination | EDA 
+CSE (AI & ML) | Titanic | NB
